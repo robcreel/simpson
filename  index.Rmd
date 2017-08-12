@@ -1,0 +1,12 @@
+---
+title: "Simpson's Paradox Graphical Exploration"
+author: "Rob Creel"
+date: "August 12, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Exploring Simpson's Paradox Graphically
